@@ -1,0 +1,38 @@
+INFO  *****输入用户名密码登录  [crazy.tools.BasicTools]info2logAndReporter(line:64)--01-07 17:17:38,294
+INFO  *****先清空用户名; 在输入: YYT  [crazy.tools.BasicTools]info2logAndReporter(line:64)--01-07 17:17:38,298
+INFO  ========LoginPage  用户名========开始定位===============================  [crazy.tools.BasicTools]info(line:52)--01-07 17:17:38,299
+INFO  定位的元素xPath为：//input[@id='UserName']  [crazy.tools.BasicTools]info(line:52)--01-07 17:17:38,304
+INFO   get its H&&W :35&&203  [crazy.tools.BasicTools]info(line:52)--01-07 17:17:38,403
+INFO   get its point :956&&193  [crazy.tools.BasicTools]info(line:52)--01-07 17:17:38,426
+INFO  ========== 用户名============定位完毕===============================  [crazy.tools.BasicTools]info(line:52)--01-07 17:17:38,427
+INFO  *****先清空密码; 在输入:**********   [crazy.tools.BasicTools]info2logAndReporter(line:64)--01-07 17:17:39,647
+INFO  ========LoginPage  密码========开始定位===============================  [crazy.tools.BasicTools]info(line:52)--01-07 17:17:39,647
+INFO  定位的元素xPath为：//input[@id='Password']  [crazy.tools.BasicTools]info(line:52)--01-07 17:17:39,649
+INFO   get its H&&W :35&&203  [crazy.tools.BasicTools]info(line:52)--01-07 17:17:39,681
+INFO   get its point :956&&234  [crazy.tools.BasicTools]info(line:52)--01-07 17:17:39,698
+INFO  ========== 密码============定位完毕===============================  [crazy.tools.BasicTools]info(line:52)--01-07 17:17:39,698
+INFO  *****点击：登录  [crazy.tools.BasicTools]info2logAndReporter(line:64)--01-07 17:17:39,845
+INFO  ========LoginPage  登录========开始定位===============================  [crazy.tools.BasicTools]info(line:52)--01-07 17:17:39,845
+INFO  定位的元素xPath为：//a[@id='a_login']  [crazy.tools.BasicTools]info(line:52)--01-07 17:17:39,848
+INFO   get its H&&W :38&&124  [crazy.tools.BasicTools]info(line:52)--01-07 17:17:39,883
+INFO   get its point :979&&313  [crazy.tools.BasicTools]info(line:52)--01-07 17:17:39,897
+INFO  ========== 登录============定位完毕===============================  [crazy.tools.BasicTools]info(line:52)--01-07 17:17:39,897
+INFO  ========MainMenuPage  昵称========开始定位===============================  [crazy.tools.BasicTools]info(line:52)--01-07 17:18:05,146
+INFO  定位的元素xPath为：//div[@id='user']/p/a/i  [crazy.tools.BasicTools]info(line:52)--01-07 17:18:05,148
+INFO   get its H&&W :39&&42  [crazy.tools.BasicTools]info(line:52)--01-07 17:18:05,182
+INFO   get its point :1223&&0  [crazy.tools.BasicTools]info(line:52)--01-07 17:18:05,198
+INFO  ========== 昵称============定位完毕===============================  [crazy.tools.BasicTools]info(line:52)--01-07 17:18:05,199
+INFO  *****移动鼠标到[昵称]中心后点击，鼠标悬停，随后找到[退出]点击  [crazy.tools.BasicTools]info2logAndReporter(line:64)--01-07 17:18:05,213
+INFO  ========MainMenuPage  昵称========开始定位===============================  [crazy.tools.BasicTools]info(line:52)--01-07 17:18:05,213
+INFO  定位的元素xPath为：//div[@id='user']/p/a/i  [crazy.tools.BasicTools]info(line:52)--01-07 17:18:05,217
+INFO   get its H&&W :39&&42  [crazy.tools.BasicTools]info(line:52)--01-07 17:18:05,245
+INFO   get its point :1223&&0  [crazy.tools.BasicTools]info(line:52)--01-07 17:18:05,264
+INFO  ========== 昵称============定位完毕===============================  [crazy.tools.BasicTools]info(line:52)--01-07 17:18:05,264
+INFO  ========MainMenuPage  退出========开始定位===============================  [crazy.tools.BasicTools]info(line:52)--01-07 17:18:05,511
+INFO  定位的元素xPath为：//a[text()='退出']  [crazy.tools.BasicTools]info(line:52)--01-07 17:18:05,513
+INFO   get its H&&W :31&&130  [crazy.tools.BasicTools]info(line:52)--01-07 17:18:08,856
+INFO   get its point :1190&&166  [crazy.tools.BasicTools]info(line:52)--01-07 17:18:08,870
+INFO  ========== 退出============定位完毕===============================  [crazy.tools.BasicTools]info(line:52)--01-07 17:18:08,870
+INFO  *****跳转到新页面：易流云平台  [crazy.tools.BasicTools]info2logAndReporter(line:64)--01-07 17:18:09,060
+INFO  the0times search :one of titles is:易流云平台  [crazy.tools.BasicTools]info(line:52)--01-07 17:18:34,425
+INFO  *****New page title is:易流云平台  [crazy.tools.BasicTools]info2logAndReporter(line:64)--01-07 17:18:34,441

@@ -1,0 +1,24 @@
+-classpath
+'E:/workspace/crazyportng/target/classes;F:/myrepository/org/testng/testng/6.8.8/testng-6.8.8.jar;F:/myrepository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar;F:/myrepository/com/beust/jcommander/1.27/jcommander-1.27.jar;F:/myrepository/velocity/velocity/1.4/velocity-1.4.jar'
+-encoding
+'GBK'
+-protected
+-sourcepath
+'E:/workspace/crazyportng/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2015. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'E:/workspace/crazyportng/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'reportng 1.2 API'
+-linkoffline
+'http://docs.oracle.com/javase/7/docs/api' 'E:/workspace/crazyportng/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'reportng 1.2 API'
